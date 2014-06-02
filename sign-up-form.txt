@@ -1,0 +1,8 @@
+<form action="http://socharmed.createsend.com/t/y/s/jkh/" method="post" id="subForm">
+<div>
+<label for="name">Name:</label><br /><input type="text" name="cm-name" id="name" /><br />
+<label for="jkh-jkh">Email:</label><br /><input type="text" name="cm-jkh-jkh" id="jkh-jkh" /><br />
+
+<input type="submit" value="Subscribe" />
+</div>
+</form>
